@@ -30,3 +30,7 @@ Coloring nodes and links is a more critical step. The colors used are set in the
 ### Information Display of the pop-up window
 Other information about the node data, such as followers, tags, likes, etc., is displayed in a pop-up window that appears when the mouse hovers over the node.
 
+
+
+![Interactive Radial Tree with 20 Color Intervals](https://github.com/user-attachments/assets/14d08f86-c1a8-47f6-aae9-a91e10d113cc)
+
