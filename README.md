@@ -1,11 +1,14 @@
 # cse6242-Data-Analytic-and-visualization-final-Project-Changda-Part
 ## A radial tree layout with D3.js visualizes  hierarchy, allowing users to expand or collapse categories. 
 
-## Description
+## Introduction
 This project outlines the development of an interactive visualization tool built using D3.js, which will allow users to visually explore 3D model metadata and discover connections between various attributes, such as model categories and user interactions (likes, saves, comments). The tool will not only provide stakeholders and model publishers with a clear understanding of what drives model popularity and improves search engine optimization and consequently the performance of their products but also help them adjust their content strategies to better meet market demands. Changda is responsible for radial tree with D3.js visualizes this interaction.
 
-## Installation:
+## Description
+A radial tree visualization integrates and visualizes the hierarchical structure of a 3D model website, encompassing "category", "subcategory", "publisher", and "model name". It represents relationships across four levels, enriched with data-driven insights. Key metrics such as "Total Models in Category", "Total Models in Subcategory", "Total Models by Publisher in Category", "Total Models by Publisher in Subcategory", and "Recommendation Score" are visualized using Color Links and Nodes with varying colors corresponding to different value ranges, effectively highlighting the relationships between these levels.
 
+## Installtion
+All the files are developed using Visual Studio Code. To include the D3.js library, add the following script tag to your HTML file, ensuring the use of D3.js version 6 for visualizations. Then, use Visual Studio Code's Live Server extension to display the visualization in Google Chrome.
 
 ## Method
 The overall structure of the visualization includes:  "data import", "data processing", "color mapping", "hierarchical data construction", "legends, nodes, link style processing", and "information display of the pop-up window".
