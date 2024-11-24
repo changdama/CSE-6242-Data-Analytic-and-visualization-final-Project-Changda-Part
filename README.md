@@ -1,8 +1,11 @@
 # cse6242-Data-Analytic-and-visualization-final-Project-Changda-Part
 ## A radial tree layout with D3.js visualizes  hierarchy, allowing users to expand or collapse categories. 
 
-## Introduction
+## Description
 This project outlines the development of an interactive visualization tool built using D3.js, which will allow users to visually explore 3D model metadata and discover connections between various attributes, such as model categories and user interactions (likes, saves, comments). The tool will not only provide stakeholders and model publishers with a clear understanding of what drives model popularity and improves search engine optimization and consequently the performance of their products but also help them adjust their content strategies to better meet market demands. Changda is responsible for radial tree with D3.js visualizes this interaction.
+
+## Installation:
+
 
 ## Method
 The overall structure of the visualization includes:  "data import", "data processing", "color mapping", "hierarchical data construction", "legends, nodes, link style processing", and "information display of the pop-up window".
